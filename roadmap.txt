@@ -1,0 +1,5 @@
+extract array data of song
+collect it
+categorize them
+recommend new song using these (recommend new song that stores same amount of data)
+
