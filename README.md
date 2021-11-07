@@ -2,9 +2,9 @@
 __under heavily maintenance__
 
 
-*Recommends Songs You Listen The Most**
+*Recommends Songs You Listen The Most
 
-*For Installation Guide See: [installation](installation)
+For Installation Guide See: [installation](installation)*
 
 **TODO**
   - Extract array data of song
