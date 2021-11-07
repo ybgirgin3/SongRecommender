@@ -2,6 +2,7 @@
 
 *Recommends Songs You Listen The Most*
 
+*For Installation Guide See: [installation](installation)
 
 **TODO**
   - Extract array data of song
