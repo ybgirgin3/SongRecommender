@@ -25,6 +25,7 @@ def to_output(fn):
     return ret
 
 
+# plotting
 def plot_song(data: str):
     """
     data is path
@@ -38,10 +39,12 @@ def plot_song(data: str):
 # read sound
 song = sys.argv[1]
 
+print("parsing song...")
 #x, sr = librosa.load(librosa.util.example_audio_file(), duration=5.0)
 x, sr = librosa.load(song)
 
 # display spectrum
+print("Fourier Transform...")
 # data to Fourier Transform
 x  = librosa.stft(x)
 # amp to db
