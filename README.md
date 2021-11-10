@@ -5,7 +5,7 @@ __under heavily maintenance__
 *Recommends Songs You Listen The Most*
 
 - For Installation Guide See: [installation](installation)
-- Source Details: [sources.md](sources.md)
+- References Details: [sources.md](sources.md)
 
 **TODO**
   - Extract array data of song
